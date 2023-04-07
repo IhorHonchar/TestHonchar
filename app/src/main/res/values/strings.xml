@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestHonchar</string>
+    <string name="welcome_sign_up_title">Welcome!</string>
+    <string name="welcome_sign_in_title">Welcome back!</string>
+    <string name="welcome_sign_up_sub_title">Create an account to get started</string>
+    <string name="welcome_sign_in_sub_title">Log in to your account</string>
+    <string name="enter_email_hint">Your email</string>
+    <string name="enter_pass_hint">Your password</string>
+    <string name="or">or</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="characters_menu_item">Characters</string>
+    <string name="favorites_menu_item">Favorites</string>
+    <string name="btn_remove_favorites">Remove from favorites</string>
+    <string name="btn_add_favorites">Add to favorites</string>
+</resources>
